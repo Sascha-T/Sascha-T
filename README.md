@@ -1,16 +1,16 @@
-### Hi there 👋
+# Welcome to my profile
+I am Sascha T., a hobbyist developer from Germany
 
-<!--
-**Sascha-T/Sascha-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My programming languages
+I have picked up quite a few programming languages, but most commonly I use GoLang, JavaScript or Java. \
+Though I also know how to use VB.net, C# and some C++
 
-Here are some ideas to get you started:
+### My ~~programming~~ languages
+I am pretty much fluent in English and German, and I also know a very tiny amount of French
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My social media
+Website: https://web.sascha-t.de
+Twitter: @Sascha_To
+Discord: Sascha_T#3993
+E-Mail: info@sascha-t.de (Put \[INQ] in the subject)
+
