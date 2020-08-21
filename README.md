@@ -9,8 +9,8 @@ Though I also know how to use VB.net, C# and some C++
 I am pretty much fluent in English and German, and I also know a very tiny amount of French
 
 ## My social media
-Website: https://web.sascha-t.de
-Twitter: @Sascha_To
-Discord: Sascha_T#3993
-E-Mail: info@sascha-t.de (Put \[INQ] in the subject)
+Website: https://web.sascha-t.de \
+Twitter: @Sascha_To \
+Discord: Sascha_T#3993 \
+E-Mail: info@sascha-t.de (Put \[INQ] in the subject) \
 
