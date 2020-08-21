@@ -12,5 +12,5 @@ I am pretty much fluent in English and German, and I also know a very tiny amoun
 Website: https://web.sascha-t.de \
 Twitter: @Sascha_To \
 Discord: Sascha_T#3993 \
-E-Mail: info@sascha-t.de (Put \[INQ] in the subject) \
+E-Mail: info@sascha-t.de (Put \[INQ] in the subject)
 
