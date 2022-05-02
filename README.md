@@ -7,6 +7,7 @@ Some of my favourite to-use programming languages are, depending on the task:
 - Java (GraalVM, Desktop, Minecraft Modding etc.)
 - Javascript (NodeJS, Typescript, Electron, React)
 - C/C++ (Previous unpublished operating system development escapades)
+
 Though I have also, in some capacity, used in the past:
 - GoLang
 - Rust
