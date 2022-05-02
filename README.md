@@ -1,16 +1,28 @@
-# Welcome to my profile
-I am Sascha T., a hobbyist developer from Germany
+# Hello and welcome to my profile.
+My name is Sascha T., and I have been developing programs varying from small chat clients/servers to websites (full-stack) to game modifications for quite a few years now.
+I live in a small town in rural southern Germany and am currently attending a local Gymnasium.
 
-### My programming languages
-I have picked up quite a few programming languages, but most commonly I use GoLang, JavaScript or Java. \
-Though I also know how to use VB.net, C# and some C++
+# My favourite programming languages
+Some of my favourite to-use programming languages are, depending on the task:
+- Java (GraalVM, Desktop, Minecraft Modding etc.)
+- Javascript (NodeJS, Typescript, Electron, React)
+- C/C++ (Previous unpublished operating system development escapades)
+Though I have also, in some capacity, used in the past:
+- GoLang
+- Rust
+- Lua
+- C#/VB.net
 
-### My languages
-I am pretty much fluent in English and German, and I also know a very tiny amount of French
+# My favourite ~~real~~ languages
+- German, native speaker level
+- English, officially uncertified, studying materials suggest B1 (CEFR)
+- French, officially uncertified, studying materials suggest B1 (CEFR)
 
-## My social media
-Website: https://web.sascha-t.de \
-Twitter: @Sascha_To \
-Discord: Sascha_T#3993 \
-E-Mail: info@sascha-t.de (Put \[INQ] in the subject)
+# Contact
+| Platform | Name | Response time |
+| --- | --- | --- |
+| [Discord](https://discord.gg) | Sascha_T#3993 | ~7 business days |
+| E-Mail | info@sascha-t.de | No guarantees (to-be changed) |
+| Twitter | [@Sascha_To](https://twitter.com/Sascha_To) | No guarantees |
 
+Further information can be found on my [personal website](web.sascha-t.de).
