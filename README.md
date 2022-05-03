@@ -26,4 +26,4 @@ Though I have also, in some capacity, used in the past:
 | E-Mail | info@sascha-t.de | No guarantees (to-be changed) |
 | Twitter | [@Sascha_To](https://twitter.com/Sascha_To) | No guarantees |
 
-Further information can be found on my [personal website](web.sascha-t.de).
+Further information can be found on my [personal website](https://web.sascha-t.de).
