@@ -22,7 +22,7 @@ Though I have also, in some capacity, used in the past:
 # Contact
 | Platform | Name | Response time |
 | --- | --- | --- |
-| [Discord](https://discord.gg) | Sascha_T#3993 | ~7 business days |
+| [Discord](https://discord.gg) | Sascha_T#3993 | fast |
 | E-Mail | info@sascha-t.de | No guarantees (to-be changed) |
 | Twitter | [@Sascha_To](https://twitter.com/Sascha_To) | No guarantees |
 
