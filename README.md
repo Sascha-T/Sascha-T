@@ -1,3 +1,7 @@
+## where's all the projects???
+hehe, dunno :) ~~blurring random areas to act mysterious~~
+![what happened here???????](https://github.com/Sascha-T/Sascha-T/assets/16324266/9f42fd6e-41b3-4702-9aad-3bd576cfdf5b)
+
 # Hello and welcome to my profile.
 My name is Sascha T., and I have been developing programs varying from small chat clients/servers to websites (full-stack) to game modifications for quite a few years now.
 I live in a small town in rural southern Germany and am currently attending a local Gymnasium.
