@@ -1,3 +1,6 @@
+## why is this a mess
+thank you sascha 2 years ago
+
 ## where's all the projects???
 hehe, dunno :) ~~blurring random areas to act mysterious~~
 ![what happened here???????](https://github.com/Sascha-T/Sascha-T/assets/16324266/9f42fd6e-41b3-4702-9aad-3bd576cfdf5b)
@@ -25,7 +28,7 @@ Though I have also, in some capacity, used in the past:
 
 # My favourite ~~real~~ languages
 - German, native speaker level
-- English, officially uncertified, studying materials suggest B1 (CEFR)
+- English, certified C1 (Internationales Abitur)
 - French, officially uncertified, studying materials suggest B1 (CEFR)
 
 # Contact
