@@ -1,7 +1,7 @@
 # this was a mess and will be always mess
 *john "10x" dev*
 
-ä Languages
+# Languages
 - German, native
 - English, C1 
 - French, (do not even think of trying)
